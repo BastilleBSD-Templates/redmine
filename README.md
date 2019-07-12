@@ -1,6 +1,7 @@
 # redmine
 Bastille Template to create a Redmine Jail
 
+ STATUS: Testing
 
 Once jail is started attach to console and run the following setup steps:
 
